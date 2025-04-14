@@ -96,15 +96,15 @@
 	<distributionManagement>
 	
 	    <repository>
-	      <id>maven-releases</id>
-	      <name>maven-releases</name>
-	      <url>http://3.90.114.37:8081/repository/maven-releases/</url>
+	      <id>nexus</id>
+	      <name>walmart-releases</name>
+	      <url>http://3.90.114.37:8081/repository/walmart-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
-	      <id>maven-snapshots</id>
-	      <name>maven-snapshots</name>
-	      <url>http://3.90.114.37:8081/repository/maven-releases/</url>
+	      <id>nexus</id>
+	      <name>walmart-snapshots</name>
+	      <url>http://3.90.114.37:8081/repository/walmart-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
