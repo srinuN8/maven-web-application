@@ -97,13 +97,13 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>walmart-releases</name>
+	      <name>maven-releases</name>
 	      <url>http://18.208.171.81:8081//repository/walmart-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>walmart-snapshots</name>
+	      <name>maven-snapshots</name>
 	      <url>http://18.208.171.81:8081//repository/walmart-snapshots/</url>
 	    </snapshotRepository>
 	    
