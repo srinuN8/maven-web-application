@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>maven-releases</name>
-	      <url>http://18.208.171.81:8081//repository/walmart-releases/</url>
+	      <url>http://13.220.112.179:8081/repository/maven-web-application-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>maven-snapshots</name>
-	      <url>http://18.208.171.81:8081//repository/walmart-snapshots/</url>
+	      <url>http://13.220.112.179:8081/repository/maven-web-appli-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
